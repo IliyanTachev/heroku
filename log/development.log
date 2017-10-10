@@ -1,0 +1,2087 @@
+Started GET "/" for 127.0.0.1 at 2017-10-01 19:45:36 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (14.7ms)
+Completed 200 OK in 676ms (Views: 30.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-08 18:26:50 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (12.3ms)
+Completed 200 OK in 336ms (Views: 21.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-08 18:26:57 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (2.8ms)
+Completed 200 OK in 15ms (Views: 13.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-08 18:36:47 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (15.2ms)
+Completed 200 OK in 401ms (Views: 28.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-08 18:36:51 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (6.9ms)
+Completed 200 OK in 14ms (Views: 12.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-08 18:38:05 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (6.4ms)
+Completed 200 OK in 14ms (Views: 13.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-08 18:43:57 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (8.8ms)
+Completed 200 OK in 382ms (Views: 26.4ms)
+
+
+Started GET "/welcome/index/" for 127.0.0.1 at 2017-10-08 18:52:53 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 2192ms (Views: 1843.1ms)
+
+
+Started GET "/welcome/index/" for 127.0.0.1 at 2017-10-08 19:02:04 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 972ms (Views: 652.6ms)
+
+
+Started GET "/welcome/index/" for 127.0.0.1 at 2017-10-08 19:02:57 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 993ms (Views: 642.6ms)
+
+
+Started GET "/welcome/index/" for 127.0.0.1 at 2017-10-08 19:03:57 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 1018ms (Views: 626.8ms)
+
+
+Started GET "/welcome/index/" for 127.0.0.1 at 2017-10-08 19:03:59 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 47ms (Views: 45.9ms)
+
+
+Started GET "/welcome/index/" for 127.0.0.1 at 2017-10-08 19:07:10 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 896ms (Views: 558.1ms)
+
+
+Started GET "/welcome/index/" for 127.0.0.1 at 2017-10-08 19:08:50 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.3ms)
+Completed 500 Internal Server Error in 391ms
+
+
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/views/welcome/index.html.erb:10: syntax error, unexpected ',', expecting ')'
+..._buffer.append=("The Sum is: ",sum);@output_buffer.safe_appe...
+...                               ^):
+  
+app/views/welcome/index.html.erb:10: syntax error, unexpected ',', expecting ')'
+Started GET "/welcome/index/" for 127.0.0.1 at 2017-10-08 19:10:38 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.2ms)
+Completed 500 Internal Server Error in 385ms
+
+
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/views/welcome/index.html.erb:10: syntax error, unexpected '(', expecting ')'
+..._buffer.append=("The Sum is: "(sum));@output_buffer.safe_app...
+...                               ^):
+  
+app/views/welcome/index.html.erb:10: syntax error, unexpected '(', expecting ')'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 19:19:36 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 921ms (Views: 562.8ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 19:22:45 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 943ms (Views: 591.5ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 19:32:48 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 703ms
+
+
+  
+NameError (undefined local variable or method `a_number' for #<WelcomeController:0x000000047d5c68>
+Did you mean?  @a_number):
+  
+app/controllers/welcome_controller.rb:5:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 19:33:37 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.5ms)
+Completed 500 Internal Server Error in 367ms
+
+
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/views/welcome/index.html.erb:15: unterminated string meets end of file
+/home/iliyantachev/workspace/myapp/app/views/welcome/index.html.erb:15: syntax error, unexpected end-of-input, expecting ')'):
+  
+app/views/welcome/index.html.erb:15: unterminated string meets end of file
+app/views/welcome/index.html.erb:15: syntax error, unexpected end-of-input, expecting ')'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 19:35:08 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.3ms)
+Completed 500 Internal Server Error in 359ms
+
+
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/views/welcome/index.html.erb:15: unterminated string meets end of file
+/home/iliyantachev/workspace/myapp/app/views/welcome/index.html.erb:15: syntax error, unexpected end-of-input, expecting ')'):
+  
+app/views/welcome/index.html.erb:15: unterminated string meets end of file
+app/views/welcome/index.html.erb:15: syntax error, unexpected end-of-input, expecting ')'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 19:36:08 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.1ms)
+Completed 500 Internal Server Error in 331ms
+
+
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/views/welcome/index.html.erb:15: unterminated string meets end of file
+/home/iliyantachev/workspace/myapp/app/views/welcome/index.html.erb:15: syntax error, unexpected end-of-input, expecting ')'):
+  
+app/views/welcome/index.html.erb:15: unterminated string meets end of file
+app/views/welcome/index.html.erb:15: syntax error, unexpected end-of-input, expecting ')'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 19:43:09 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.4ms)
+Completed 500 Internal Server Error in 404ms
+
+
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/views/welcome/index.html.erb:15: unterminated string meets end of file
+/home/iliyantachev/workspace/myapp/app/views/welcome/index.html.erb:15: syntax error, unexpected end-of-input, expecting ')'):
+  
+app/views/welcome/index.html.erb:15: unterminated string meets end of file
+app/views/welcome/index.html.erb:15: syntax error, unexpected end-of-input, expecting ')'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 19:43:13 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.4ms)
+Completed 500 Internal Server Error in 11ms
+
+
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/views/welcome/index.html.erb:15: unterminated string meets end of file
+/home/iliyantachev/workspace/myapp/app/views/welcome/index.html.erb:15: syntax error, unexpected end-of-input, expecting ')'):
+  
+app/views/welcome/index.html.erb:15: unterminated string meets end of file
+app/views/welcome/index.html.erb:15: syntax error, unexpected end-of-input, expecting ')'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 20:02:11 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.4ms)
+Completed 500 Internal Server Error in 375ms
+
+
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/views/welcome/index.html.erb:12: syntax error, unexpected '+', expecting '|'
+ 10.times do |a++|
+                ^
+/home/iliyantachev/workspace/myapp/app/views/welcome/index.html.erb:21: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/welcome/index.html.erb:12: syntax error, unexpected '+', expecting '|'
+app/views/welcome/index.html.erb:21: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 20:03:45 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.5ms)
+Completed 500 Internal Server Error in 316ms
+
+
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/views/welcome/index.html.erb:12: syntax error, unexpected '+', expecting '|'
+ 10.times do |a+|
+                ^
+/home/iliyantachev/workspace/myapp/app/views/welcome/index.html.erb:21: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/welcome/index.html.erb:12: syntax error, unexpected '+', expecting '|'
+app/views/welcome/index.html.erb:21: syntax error, unexpected keyword_ensure, expecting end-of-input
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 20:05:05 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 853ms (Views: 538.5ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 20:07:46 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 1036ms (Views: 667.0ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 20:08:01 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 59ms (Views: 57.5ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 20:09:06 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 905ms (Views: 551.3ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 20:17:03 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:4: syntax error, unexpected ')'
+	for(;@lizbi_sum<10;@lizbi_sum++);
+	                                ^):
+  
+app/controllers/welcome_controller.rb:4: syntax error, unexpected ')'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 20:19:51 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end):
+  
+app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 20:19:53 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end):
+  
+app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 20:22:34 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end
+/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:10: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end
+app/controllers/welcome_controller.rb:10: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-08 20:23:43 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end
+/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:11: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end
+app/controllers/welcome_controller.rb:11: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 11:55:18 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end
+/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:10: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end
+app/controllers/welcome_controller.rb:10: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 11:56:45 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end):
+  
+app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 11:57:20 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:6: unknown regexp option - d
+/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:9: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/welcome_controller.rb:6: unknown regexp option - d
+app/controllers/welcome_controller.rb:9: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:06:45 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:6: syntax error, unexpected '<'
+	<%end%>
+	 ^
+/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:6: unknown type of %string
+	<%end%>
+	    ^):
+  
+app/controllers/welcome_controller.rb:6: syntax error, unexpected '<'
+app/controllers/welcome_controller.rb:6: unknown type of %string
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:08:03 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:3: syntax error, unexpected '<'
+	<%@sum=0%>
+	 ^
+/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:4: syntax error, unexpected tIDENTIFIER, expecting keyword_end
+	<%while @sum<10 do
+	            ^
+/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:4: syntax error, unexpected keyword_do, expecting keyword_end):
+  
+app/controllers/welcome_controller.rb:3: syntax error, unexpected '<'
+app/controllers/welcome_controller.rb:4: syntax error, unexpected tIDENTIFIER, expecting keyword_end
+app/controllers/welcome_controller.rb:4: syntax error, unexpected keyword_do, expecting keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:08:49 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end):
+  
+app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:10:32 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end):
+  
+app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:10:34 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end):
+  
+app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:10:35 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end):
+  
+app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:10:39 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end):
+  
+app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:10:41 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end):
+  
+app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:10:43 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end):
+  
+app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:10:45 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end):
+  
+app/controllers/welcome_controller.rb:6: syntax error, unexpected keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:11:37 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:5: syntax error, unexpected '|'
+	|@sum++|
+	 ^
+/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:5: syntax error, unexpected '|'):
+  
+app/controllers/welcome_controller.rb:5: syntax error, unexpected '|'
+app/controllers/welcome_controller.rb:5: syntax error, unexpected '|'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:11:39 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:5: syntax error, unexpected '|'
+	|@sum++|
+	 ^
+/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:5: syntax error, unexpected '|'):
+  
+app/controllers/welcome_controller.rb:5: syntax error, unexpected '|'
+app/controllers/welcome_controller.rb:5: syntax error, unexpected '|'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:19:21 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:4: syntax error, unexpected '|'
+	while @sum<10.each  do |@sum++|
+	                        ^
+/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:4: syntax error, unexpected '|'):
+  
+app/controllers/welcome_controller.rb:4: syntax error, unexpected '|'
+app/controllers/welcome_controller.rb:4: syntax error, unexpected '|'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:20:08 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:4: syntax error, unexpected '|'
+	while @sum.each<10  do |@sum++|
+	                        ^
+/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:4: syntax error, unexpected '|'):
+  
+app/controllers/welcome_controller.rb:4: syntax error, unexpected '|'
+app/controllers/welcome_controller.rb:4: syntax error, unexpected '|'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:21:30 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:5: syntax error, unexpected keyword_end):
+  
+app/controllers/welcome_controller.rb:5: syntax error, unexpected keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:22:05 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:4: syntax error, unexpected tIVAR, expecting keyword_do_cond or ';' or '\n'
+	while @sum.each<10  @sum++
+	                        ^
+/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:5: syntax error, unexpected keyword_end):
+  
+app/controllers/welcome_controller.rb:4: syntax error, unexpected tIVAR, expecting keyword_do_cond or ';' or '\n'
+app/controllers/welcome_controller.rb:5: syntax error, unexpected keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:22:06 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:4: syntax error, unexpected tIVAR, expecting keyword_do_cond or ';' or '\n'
+	while @sum.each<10  @sum++
+	                        ^
+/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:5: syntax error, unexpected keyword_end):
+  
+app/controllers/welcome_controller.rb:4: syntax error, unexpected tIVAR, expecting keyword_do_cond or ';' or '\n'
+app/controllers/welcome_controller.rb:5: syntax error, unexpected keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 12:22:08 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:4: syntax error, unexpected tIVAR, expecting keyword_do_cond or ';' or '\n'
+	while @sum.each<10  @sum++
+	                        ^
+/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:5: syntax error, unexpected keyword_end):
+  
+app/controllers/welcome_controller.rb:4: syntax error, unexpected tIVAR, expecting keyword_do_cond or ';' or '\n'
+app/controllers/welcome_controller.rb:5: syntax error, unexpected keyword_end
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 20:46:57 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1986ms
+
+
+  
+NameError (undefined local variable or method `filename' for #<WelcomeController:0x000000042e12e8>):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:09:09 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 831ms
+
+
+  
+NameError (undefined local variable or method `filename' for #<WelcomeController:0x00000003954a18>):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:10:21 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 756ms
+
+
+  
+NameError (undefined local variable or method `csvfile' for #<WelcomeController:0x000000041428d8>):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:10:25 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 363ms
+
+
+  
+NameError (undefined local variable or method `csvfile' for #<WelcomeController:0x00000003c127c8>):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:10:29 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 327ms
+
+
+  
+NameError (undefined local variable or method `csvfile' for #<WelcomeController:0x0000000282e310>):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:10:39 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 318ms
+
+
+  
+NameError (undefined local variable or method `csvfile' for #<WelcomeController:0x00000003e80640>):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:12:58 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 778ms
+
+
+  
+NameError (undefined local variable or method `csvfile' for #<WelcomeController:0x0000000407cdb8>):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:13:01 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 340ms
+
+
+  
+NameError (undefined local variable or method `csvfile' for #<WelcomeController:0x00000003b659b0>):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:13:07 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 325ms
+
+
+  
+NameError (undefined local variable or method `csvfile' for #<WelcomeController:0x00000002753648>):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:14:45 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:4: unknown regexp options - wrkpac):
+  
+app/controllers/welcome_controller.rb:4: unknown regexp options - wrkpac
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:14:50 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:4: unknown regexp options - wrkpac):
+  
+app/controllers/welcome_controller.rb:4: unknown regexp options - wrkpac
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:17:09 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:4: unknown regexp options - wrkpac):
+  
+app/controllers/welcome_controller.rb:4: unknown regexp options - wrkpac
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:17:11 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:4: unknown regexp options - wrkpac):
+  
+app/controllers/welcome_controller.rb:4: unknown regexp options - wrkpac
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:17:12 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:4: unknown regexp options - wrkpac):
+  
+app/controllers/welcome_controller.rb:4: unknown regexp options - wrkpac
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:29:03 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 369ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - /home/workspace/myapp/app/controllers/csvfile.csv):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:29:06 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - /home/workspace/myapp/app/controllers/csvfile.csv):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:29:14 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - /home/workspace/myapp/app/controllers/csvfile.csv):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:29:50 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 783ms
+
+
+  
+NameError (undefined local variable or method `csvfile' for #<WelcomeController:0x000000052e3100>):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:29:53 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 376ms
+
+
+  
+NameError (undefined local variable or method `csvfile' for #<WelcomeController:0x000000050bb648>):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:29:56 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 352ms
+
+
+  
+NameError (undefined local variable or method `csvfile' for #<WelcomeController:0x00000003bfc860>):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:29:59 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 363ms
+
+
+  
+NameError (undefined local variable or method `csvfile' for #<WelcomeController:0x000000052cc9c8>):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:35:06 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 483ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - /home/workspace/myapp/app/controllers/csvfile.csv):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:35:08 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 5ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - /home/workspace/myapp/app/controllers/csvfile.csv):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:35:10 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - /home/workspace/myapp/app/controllers/csvfile.csv):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:35:11 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - /home/workspace/myapp/app/controllers/csvfile.csv):
+  
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:42:52 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:3: unknown regexp options - wrkpac):
+  
+app/controllers/welcome_controller.rb:3: unknown regexp options - wrkpac
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:43:25 +0300
+  
+ActionController::RoutingError (undefined local variable or method `csvfile' for WelcomeController:Class):
+  
+app/controllers/welcome_controller.rb:3:in `<class:WelcomeController>'
+app/controllers/welcome_controller.rb:1:in `<top (required)>'
+Started GET "/rails/info/routes?path=cs" for 127.0.0.1 at 2017-10-09 21:43:51 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"cs"}
+Completed 200 OK in 277ms (Views: 0.4ms)
+
+
+Started GET "/rails/info/routes?path=csv" for 127.0.0.1 at 2017-10-09 21:43:52 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"csv"}
+Completed 200 OK in 1ms (Views: 0.3ms)
+
+
+Started GET "/rails/info/routes?path=csvfile." for 127.0.0.1 at 2017-10-09 21:43:53 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"csvfile."}
+Completed 200 OK in 1ms (Views: 0.2ms)
+
+
+Started GET "/rails/info/routes?path=csvfile." for 127.0.0.1 at 2017-10-09 21:43:53 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"csvfile."}
+Completed 200 OK in 3ms (Views: 0.6ms)
+
+
+Started GET "/rails/info/routes?path=csvfile.csv" for 127.0.0.1 at 2017-10-09 21:43:54 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"csvfile.csv"}
+Completed 200 OK in 3ms (Views: 1.6ms)
+
+
+Started GET "/rails/info/routes?path=csvfile.csv" for 127.0.0.1 at 2017-10-09 21:43:56 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"csvfile.csv"}
+Completed 200 OK in 3ms (Views: 0.5ms)
+
+
+Started GET "/rails/info/routes?path=csvf" for 127.0.0.1 at 2017-10-09 21:44:01 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"csvf"}
+Completed 200 OK in 4ms (Views: 0.3ms)
+
+
+Started GET "/rails/info/routes?path=csvfilel." for 127.0.0.1 at 2017-10-09 21:44:02 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"csvfilel."}
+Completed 200 OK in 3ms (Views: 0.5ms)
+
+
+Started GET "/rails/info/routes?path=csvfilel...." for 127.0.0.1 at 2017-10-09 21:44:04 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"csvfilel...."}
+Completed 200 OK in 1ms (Views: 0.2ms)
+
+
+Started GET "/rails/info/routes?path=csvfilel...." for 127.0.0.1 at 2017-10-09 21:44:04 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"csvfilel...."}
+Completed 200 OK in 2ms (Views: 0.5ms)
+
+
+Started GET "/rails/info/routes?path=cs" for 127.0.0.1 at 2017-10-09 21:44:20 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"cs"}
+Completed 200 OK in 3ms (Views: 0.8ms)
+
+
+Started GET "/rails/info/routes?path=cs" for 127.0.0.1 at 2017-10-09 21:44:20 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"cs"}
+Completed 200 OK in 1ms (Views: 0.3ms)
+
+
+Started GET "/rails/info/routes?path=csv" for 127.0.0.1 at 2017-10-09 21:44:21 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"csv"}
+Completed 200 OK in 2ms (Views: 0.5ms)
+
+
+Started GET "/rails/info/routes?path=csvfile" for 127.0.0.1 at 2017-10-09 21:44:22 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"csvfile"}
+Completed 200 OK in 2ms (Views: 0.5ms)
+
+
+Started GET "/rails/info/routes?path=csvfile.c" for 127.0.0.1 at 2017-10-09 21:44:23 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"csvfile.c"}
+Completed 200 OK in 1ms (Views: 0.2ms)
+
+
+Started GET "/rails/info/routes?path=csvfile.csv" for 127.0.0.1 at 2017-10-09 21:44:24 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"csvfile.csv"}
+Completed 200 OK in 1ms (Views: 0.3ms)
+
+
+Started GET "/rails/info/routes?path=csvfile.csv" for 127.0.0.1 at 2017-10-09 21:44:24 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"csvfile.csv"}
+Completed 200 OK in 2ms (Views: 0.5ms)
+
+
+Started GET "/rails/info/routes?path=csvfile.csv" for 127.0.0.1 at 2017-10-09 21:44:26 +0300
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"csvfile.csv"}
+Completed 200 OK in 2ms (Views: 0.6ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:51:40 +0300
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - /home/workspace/myapp/app/controllers/csvfile.csv):
+  
+app/controllers/welcome_controller.rb:3:in `<class:WelcomeController>'
+app/controllers/welcome_controller.rb:1:in `<top (required)>'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:51:42 +0300
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - /home/workspace/myapp/app/controllers/csvfile.csv):
+  
+app/controllers/welcome_controller.rb:3:in `<class:WelcomeController>'
+app/controllers/welcome_controller.rb:1:in `<top (required)>'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:52:18 +0300
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - /workspace/myapp/app/controllers/csvfile.csv):
+  
+app/controllers/welcome_controller.rb:3:in `<class:WelcomeController>'
+app/controllers/welcome_controller.rb:1:in `<top (required)>'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:52:20 +0300
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - /workspace/myapp/app/controllers/csvfile.csv):
+  
+app/controllers/welcome_controller.rb:3:in `<class:WelcomeController>'
+app/controllers/welcome_controller.rb:1:in `<top (required)>'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:52:22 +0300
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - /workspace/myapp/app/controllers/csvfile.csv):
+  
+app/controllers/welcome_controller.rb:3:in `<class:WelcomeController>'
+app/controllers/welcome_controller.rb:1:in `<top (required)>'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 21:56:08 +0300
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - /workspace/myapp/app/controllers/csvfile.csv):
+  
+app/controllers/welcome_controller.rb:3:in `<class:WelcomeController>'
+app/controllers/welcome_controller.rb:1:in `<top (required)>'
+Started GET "/welcome/filecsv.csv" for 127.0.0.1 at 2017-10-09 21:56:27 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/filecsv.csv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-09 23:15:50 +0300
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[0]):
+  
+app/controllers/welcome_controller.rb:7:in `read'
+app/controllers/welcome_controller.rb:7:in `<class:WelcomeController>'
+app/controllers/welcome_controller.rb:1:in `<top (required)>'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 17:41:36 +0300
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - file.csv):
+  
+app/controllers/welcome_controller.rb:3:in `read'
+app/controllers/welcome_controller.rb:3:in `<class:WelcomeController>'
+app/controllers/welcome_controller.rb:1:in `<top (required)>'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 17:41:38 +0300
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - file.csv):
+  
+app/controllers/welcome_controller.rb:3:in `read'
+app/controllers/welcome_controller.rb:3:in `<class:WelcomeController>'
+app/controllers/welcome_controller.rb:1:in `<top (required)>'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 17:41:40 +0300
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - file.csv):
+  
+app/controllers/welcome_controller.rb:3:in `read'
+app/controllers/welcome_controller.rb:3:in `<class:WelcomeController>'
+app/controllers/welcome_controller.rb:1:in `<top (required)>'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 17:43:11 +0300
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - file.csv):
+  
+app/controllers/welcome_controller.rb:3:in `read'
+app/controllers/welcome_controller.rb:3:in `<class:WelcomeController>'
+app/controllers/welcome_controller.rb:1:in `<top (required)>'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 17:43:12 +0300
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - file.csv):
+  
+app/controllers/welcome_controller.rb:3:in `read'
+app/controllers/welcome_controller.rb:3:in `<class:WelcomeController>'
+app/controllers/welcome_controller.rb:1:in `<top (required)>'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 17:43:13 +0300
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - file.csv):
+  
+app/controllers/welcome_controller.rb:3:in `read'
+app/controllers/welcome_controller.rb:3:in `<class:WelcomeController>'
+app/controllers/welcome_controller.rb:1:in `<top (required)>'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 17:43:14 +0300
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - file.csv):
+  
+app/controllers/welcome_controller.rb:3:in `read'
+app/controllers/welcome_controller.rb:3:in `<class:WelcomeController>'
+app/controllers/welcome_controller.rb:1:in `<top (required)>'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 17:43:16 +0300
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - file.csv):
+  
+app/controllers/welcome_controller.rb:3:in `read'
+app/controllers/welcome_controller.rb:3:in `<class:WelcomeController>'
+app/controllers/welcome_controller.rb:1:in `<top (required)>'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 18:04:03 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 1967ms (Views: 1187.9ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 18:04:10 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 38ms (Views: 36.3ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 18:04:14 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 41ms (Views: 39.9ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 18:04:26 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 83ms (Views: 81.9ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 18:04:27 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 45ms (Views: 43.7ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 18:04:29 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 43ms (Views: 38.2ms)
+
+
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 18:05:03 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 62ms (Views: 59.7ms)
+
+
+Started GET "/welcome/getcsv" for 127.0.0.1 at 2017-10-10 18:06:01 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/welcome/getcsv" for 127.0.0.1 at 2017-10-10 18:19:56 +0300
+  
+ActionController::RoutingError (No route matches [POST] "/welcome/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/getcsv" for 127.0.0.1 at 2017-10-10 18:40:01 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/welcome/getcsv" for 127.0.0.1 at 2017-10-10 18:40:29 +0300
+  
+ActionController::RoutingError (No route matches [POST] "/welcome/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/getcsv" for 127.0.0.1 at 2017-10-10 18:40:34 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/getcsv" for 127.0.0.1 at 2017-10-10 18:40:36 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/getcsv" for 127.0.0.1 at 2017-10-10 18:49:07 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2017-10-10 18:49:20 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/welcome_controller.rb:9: syntax error, unexpected keyword_end):
+  
+app/controllers/welcome_controller.rb:9: syntax error, unexpected keyword_end
+Started GET "/" for 127.0.0.1 at 2017-10-10 18:50:19 +0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 960ms (Views: 609.8ms)
+
+
+Started GET "/welcome/getcsv" for 127.0.0.1 at 2017-10-10 18:50:59 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/getcsv" for 127.0.0.1 at 2017-10-10 18:52:24 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/getcsv" for 127.0.0.1 at 2017-10-10 18:52:25 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/index/getcsv" for 127.0.0.1 at 2017-10-10 18:53:07 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/index/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/getcsv" for 127.0.0.1 at 2017-10-10 18:53:17 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/getcsv" for 127.0.0.1 at 2017-10-10 18:54:20 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/getcsv" for 127.0.0.1 at 2017-10-10 18:54:22 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/getcsv" for 127.0.0.1 at 2017-10-10 18:54:38 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/getcsv" for 127.0.0.1 at 2017-10-10 18:54:41 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/sums/getcsv" for 127.0.0.1 at 2017-10-10 18:56:46 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/sums/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/getcsv" for 127.0.0.1 at 2017-10-10 18:56:53 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/getcsv"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/sums" for 127.0.0.1 at 2017-10-10 18:56:57 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/sums"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/sums" for 127.0.0.1 at 2017-10-10 18:58:00 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/sums"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/sums" for 127.0.0.1 at 2017-10-10 18:58:02 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/welcome/sums"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 18:58:07 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started POST "/welcome/index" for 127.0.0.1 at 2017-10-10 18:58:52 +0300
+  
+ActionController::RoutingError (No route matches [POST] "/welcome/index"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 18:58:57 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 18:58:58 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 18:59:00 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 18:59:01 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 2ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 18:59:02 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 18:59:04 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 18:59:05 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 19:00:09 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file@]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 19:00:11 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file@]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 19:00:33 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file=]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 19:00:56 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 19:00:58 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 19:03:02 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 19:07:07 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 19:07:09 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 19:07:11 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 19:17:54 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file.csv]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 19:17:56 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 6ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file.csv]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started POST "/welcome/index" for 127.0.0.1 at 2017-10-10 19:18:17 +0300
+  
+ActionController::RoutingError (No route matches [POST] "/welcome/index"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 19:18:42 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - params[:file]):
+  
+app/controllers/welcome_controller.rb:4:in `read'
+app/controllers/welcome_controller.rb:4:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 19:19:44 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - file_name):
+  
+app/controllers/welcome_controller.rb:5:in `read'
+app/controllers/welcome_controller.rb:5:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 19:19:45 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - file_name):
+  
+app/controllers/welcome_controller.rb:5:in `read'
+app/controllers/welcome_controller.rb:5:in `index'
+Started POST "/welcome/index" for 127.0.0.1 at 2017-10-10 19:20:07 +0300
+  
+ActionController::RoutingError (No route matches [POST] "/welcome/index"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 19:20:14 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - file_name):
+  
+app/controllers/welcome_controller.rb:5:in `read'
+app/controllers/welcome_controller.rb:5:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 19:20:16 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - file_name):
+  
+app/controllers/welcome_controller.rb:5:in `read'
+app/controllers/welcome_controller.rb:5:in `index'
+Started GET "/welcome/index" for 127.0.0.1 at 2017-10-10 19:20:19 +0300
+Processing by WelcomeController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+Errno::ENOENT (No such file or directory @ rb_sysopen - file_name):
+  
+app/controllers/welcome_controller.rb:5:in `read'
+app/controllers/welcome_controller.rb:5:in `index'
+Started GET "/" for 127.0.0.1 at 2017-10-10 20:49:53 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (9.0ms)
+Completed 200 OK in 510ms (Views: 41.1ms)
+
+
+Started GET "/application_controller/sums" for 127.0.0.1 at 2017-10-10 20:50:10 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/application_controller/sums"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/sums" for 127.0.0.1 at 2017-10-10 20:52:28 +0300
+Processing by ApplicationController#sums as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0x00000005bbed88 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-29172-1my9vc1.csv>, @original_filename="file.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"file.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+Can't verify CSRF token authenticity.
+  Rendering text template
+  Rendered text template (0.0ms)
+Completed 200 OK in 19ms (Views: 17.6ms)
+
+
+Started POST "/sum_sec" for 127.0.0.1 at 2017-10-10 21:49:38 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/application_controller.rb:24: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/application_controller.rb:24: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/" for 127.0.0.1 at 2017-10-10 21:55:59 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/iliyantachev/.rvm/gems/ruby-2.3.1@myapp/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (3.8ms)
+Completed 200 OK in 37ms (Views: 36.5ms)
+
+
+Started GET "/sums" for 127.0.0.1 at 2017-10-10 21:56:04 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/sums"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/sum_sec" for 127.0.0.1 at 2017-10-10 22:10:55 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/application_controller.rb:24: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/application_controller.rb:24: syntax error, unexpected end-of-input, expecting keyword_end
+Started POST "/sum_sec" for 127.0.0.1 at 2017-10-10 22:22:26 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/application_controller.rb:24: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/application_controller.rb:24: syntax error, unexpected end-of-input, expecting keyword_end
+Started POST "/sum_sec" for 127.0.0.1 at 2017-10-10 22:27:05 +0300
+  
+SyntaxError (/home/iliyantachev/workspace/myapp/app/controllers/application_controller.rb:24: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/application_controller.rb:24: syntax error, unexpected end-of-input, expecting keyword_end
+Started POST "/sum_sec" for 127.0.0.1 at 2017-10-10 22:28:41 +0300
+Processing by ApplicationController#sum_sec as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0x00000003d43c28 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-31076-8nfyzk.csv>, @original_filename="file.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"file.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+Can't verify CSRF token authenticity.
+  Rendering text template
+  Rendered text template (0.0ms)
+Completed 200 OK in 200ms (Views: 5.2ms)
+
+
+Started POST "/sum_sec" for 127.0.0.1 at 2017-10-10 22:32:21 +0300
+Processing by ApplicationController#sum_sec as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0x00000003d6b0e8 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-31076-1iqit9l.csv>, @original_filename="file.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"file.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+Can't verify CSRF token authenticity.
+  Rendering text template
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 0.8ms)
+
+
+Started POST "/filters" for 127.0.0.1 at 2017-10-10 23:08:22 +0300
+Processing by ApplicationController#filters as */*
+  Parameters: {"file"=>#<ActionDispatch::Http::UploadedFile:0x0000000393c800 @tempfile=#<Tempfile:/tmp/RackMultipart20171010-31473-1ac9er8.csv>, @original_filename="file.csv", @content_type="application/octet-stream", @headers="Content-Disposition: form-data; name=\"file\"; filename=\"file.csv\"\r\nContent-Type: application/octet-stream\r\n">}
+Can't verify CSRF token authenticity.
+  Rendering text template
+  Rendered text template (0.0ms)
+Completed 200 OK in 222ms (Views: 4.9ms)
+
+
